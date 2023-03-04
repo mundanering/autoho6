@@ -1,2 +1,7 @@
-# autoho6
-ai that plays touhou 6
+# toho6ai
+
+東方 プロジェクト
+東方紅魔郷
+
+dupdupdupdupdupa
+jajajajaj jaja
