@@ -11,13 +11,13 @@ if __name__ == '__main__':
     subprocess.Popen([LEPROC, EOSD])
     sleep(7)
     keyboard.send('enter')
-    sleep(1)
+    sleep(0.5)
     keyboard.send('ctrl+down')
-    sleep(1)
+    sleep(0.5)
     # jedyne co dziala
     keyboard.send('alt+tab')
-    sleep(1)
+    sleep(0.5)
     # tutaj tez dziala bo wyjdzie z gry
     keyboard.send('z')
-    sleep(1)
+    sleep(0.5)
     keyboard.send('z')
