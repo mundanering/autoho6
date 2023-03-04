@@ -13,9 +13,14 @@ GAME = {
 sct = mss()
 
 while True:
+    # screen
     sct_img = sct.grab(GAME)
     # cv2.imshow('screen', np.array(sct_img))
-    # 
-    # if (cv2.waitKey(1) & 0xFF) == ord('q'):
-    #     cv2.destroyAllWindows()
-    #     break
+
+    # analiza
+    
+    # ruch
+
+    if (cv2.waitKey(1) & 0xFF) == ord('q'):
+        cv2.destroyAllWindows()
+        break
