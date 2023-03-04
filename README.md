@@ -1,1 +1,2 @@
-# toho6ai
+# autoho6
+ai that plays touhou 6
