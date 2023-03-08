@@ -25,3 +25,4 @@ if __name__ == '__main__':
     for i in range(17):
         keypress('z')
         sleep(0.1)
+    import core.main
